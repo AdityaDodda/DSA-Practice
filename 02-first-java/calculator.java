@@ -5,7 +5,6 @@ public class calculator {
         int num1 = in.nextInt();
         int num2 = in.nextInt();
         
-        if(){}
         in.close();
     }
 }
